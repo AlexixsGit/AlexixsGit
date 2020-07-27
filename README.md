@@ -1,6 +1,6 @@
 <h2>Hi, I'm Alexis</h2>
 
-<img src="https://github.com/AlexixsGit/AlexixsGit/blob/master/IMG_0992.JPG"/>
+<img src="https://github.com/AlexixsGit/AlexixsGit/blob/master/340327E2-746A-4E85-BC1E-814171BEFA7C.PNG"/>
 
 I am system engineer, apassionated with software development with more than 8 years of experience in web development principaly in java, javascript and wordpress, I have taken many courses, certificactions and diplomas related with system engineering, I have worked in big development companies with backend, frontend and fullstack role and finally I speak English.
 
