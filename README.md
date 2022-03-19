@@ -6,6 +6,7 @@
 - I am the ecommerce creator https://mayoristaskarolblu.com
 - You can find me on <b>Linkind</b> as <b>Alexis Ortiz</b>
 - You can find me on <b>twitter</b> as <b>@Alexixs</b>
+- My youtube channel is https://www.youtube.com/channel/UCdyJeRvICwOExL3VyyCeoCg/videos 
 
 
 
